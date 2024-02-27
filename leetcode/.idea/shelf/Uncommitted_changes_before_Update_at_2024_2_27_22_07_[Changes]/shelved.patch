@@ -1,0 +1,211 @@
+Index: ../README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../README.md b/../README.md
+deleted file mode 100644
+--- a/../README.md	
++++ /dev/null	
+@@ -1,2 +0,0 @@
+-# leetcode-template
+-my own algorithm summary template
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ProjectModuleManager\">\r\n    <modules>\r\n      <module fileurl=\"file://$PROJECT_DIR$/leetcode.iml\" filepath=\"$PROJECT_DIR$/leetcode.iml\" />\r\n    </modules>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+--- a/.idea/modules.xml	
++++ b/.idea/modules.xml	
+@@ -2,7 +2,7 @@
+ <project version="4">
+   <component name="ProjectModuleManager">
+     <modules>
+-      <module fileurl="file://$PROJECT_DIR$/leetcode.iml" filepath="$PROJECT_DIR$/leetcode.iml" />
++      <module fileurl="file://$PROJECT_DIR$/leetcode_template.iml" filepath="$PROJECT_DIR$/leetcode_template.iml" />
+     </modules>
+   </component>
+ </project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"a15bd328-f377-4fdf-b780-ad44ad4fd513\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/artifacts/leetcode_jar.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/uiDesigner.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/leetcode.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/DataStructure/CFG.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/DataStructure/Graph.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/DataStructure/TreeNode.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/DataStructure/UnionFind.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/META-INF/MANIFEST.MF\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/../untitled/.idea/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/../untitled/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/../untitled/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/../untitled/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/../untitled/src/Graph.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/../untitled/src/earda.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/../untitled/untitled.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/../untitled1/.idea/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/../untitled1/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/../untitled1/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/../untitled1/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/../untitled1/src/UnionFind.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/../untitled1/untitled1.iml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/../README.md\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/misc.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/leetcode/BinarySearchTree.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/leetcode/GFG.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/leetcode/Graph$Edge.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/leetcode/Graph.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/leetcode/ListTest.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/leetcode/Main.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/leetcode/Main.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/leetcode/TreeNode.class\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/leetcode/UnionFind.class\" beforeDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/..\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;customColor&quot;: &quot;&quot;,\r\n  &quot;associatedIndex&quot;: 7\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2cwjaTsqzH7AOEVGiW8QG2uOhN5\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Application.Graph (1).executor\": \"Run\",\r\n    \"Application.Graph.executor\": \"Run\",\r\n    \"Application.Main.executor\": \"Run\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"git-widget-placeholder\": \"main\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/apex/Code/Java/leetcode\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"project.structure.last.edited\": \"Artifacts\",\r\n    \"project.structure.proportion\": \"0.0\",\r\n    \"project.structure.side.proportion\": \"0.2\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\" selected=\"Application.BinarySearchTree\">\r\n    <configuration name=\"BinarySearchTree\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"DataStructure.BinarySearchTree\" />\r\n      <module name=\"leetcode\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"DataStructure.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Graph (1)\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Graph\" />\r\n      <module name=\"leetcode\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Graph\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"DataStructure.Graph\" />\r\n      <module name=\"leetcode\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"DataStructure.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Main\" />\r\n      <module name=\"leetcode\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.BinarySearchTree\" />\r\n        <item itemvalue=\"Application.Graph (1)\" />\r\n        <item itemvalue=\"Application.Graph\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"a15bd328-f377-4fdf-b780-ad44ad4fd513\" name=\"Changes\" comment=\"\" />\r\n      <created>1709029599392</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1709029599392</updated>\r\n      <workItem from=\"1709029600621\" duration=\"197000\" />\r\n      <workItem from=\"1709029806173\" duration=\"20000\" />\r\n      <workItem from=\"1709031093296\" duration=\"347000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -1,41 +1,12 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
++  <component name="AutoImportSettings">
++    <option name="autoReloadType" value="SELECTIVE" />
++  </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="a15bd328-f377-4fdf-b780-ad44ad4fd513" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/leetcode_jar.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/DataStructure/CFG.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/DataStructure/Graph.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/DataStructure/TreeNode.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/DataStructure/UnionFind.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../untitled/src/Graph.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../untitled/src/earda.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../untitled1/src/UnionFind.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
++    <list default="true" id="a15bd328-f377-4fdf-b780-ad44ad4fd513" name="Changes" comment="new">
+       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/BinarySearchTree.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/GFG.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Graph$Edge.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Graph.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/ListTest.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Main.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/TreeNode.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/UnionFind.class" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_template.iml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -51,6 +22,7 @@
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
++    <option name="UPDATE_TYPE" value="REBASE" />
+   </component>
+   <component name="ProjectColorInfo">{
+   &quot;customColor&quot;: &quot;&quot;,
+@@ -63,6 +35,7 @@
+   </component>
+   <component name="PropertiesComponent"><![CDATA[{
+   "keyToString": {
++    "Application.BinarySearchTree.executor": "Run",
+     "Application.Graph (1).executor": "Run",
+     "Application.Graph.executor": "Run",
+     "Application.Main.executor": "Run",
+@@ -86,7 +59,7 @@
+   <component name="RunManager" selected="Application.BinarySearchTree">
+     <configuration name="BinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="DataStructure.BinarySearchTree" />
+-      <module name="leetcode" />
++      <module name="leetcode_template" />
+       <extension name="coverage">
+         <pattern>
+           <option name="PATTERN" value="DataStructure.*" />
+@@ -99,14 +72,14 @@
+     </configuration>
+     <configuration name="Graph (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="Graph" />
+-      <module name="leetcode" />
++      <module name="leetcode_template" />
+       <method v="2">
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+     <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="DataStructure.Graph" />
+-      <module name="leetcode" />
++      <module name="leetcode_template" />
+       <extension name="coverage">
+         <pattern>
+           <option name="PATTERN" value="DataStructure.*" />
+@@ -119,7 +92,20 @@
+     </configuration>
+     <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="Main" />
+-      <module name="leetcode" />
++      <module name="leetcode_template" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration default="true" type="JetRunConfigurationType">
++      <module name="leetcode_template" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
++      <module name="leetcode_template" />
++      <option name="filePath" />
+       <method v="2">
+         <option name="Make" enabled="true" />
+       </method>
+@@ -149,11 +135,32 @@
+       <updated>1709029599392</updated>
+       <workItem from="1709029600621" duration="197000" />
+       <workItem from="1709029806173" duration="20000" />
+-      <workItem from="1709031093296" duration="347000" />
++      <workItem from="1709031093296" duration="873000" />
++    </task>
++    <task id="LOCAL-00001" summary="new">
++      <option name="closed" value="true" />
++      <created>1709031623426</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1709031623426</updated>
+     </task>
++    <task id="LOCAL-00002" summary="new">
++      <option name="closed" value="true" />
++      <created>1709031714487</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1709031714487</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="new" />
++    <option name="LAST_COMMIT_MESSAGE" value="new" />
++  </component>
+ </project>
+\ No newline at end of file
+Index: .idea/artifacts/leetcode_jar.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><component name=\"ArtifactManager\">\r\n  <artifact type=\"jar\" name=\"leetcode:jar\">\r\n    <output-path>$PROJECT_DIR$/out/artifacts/leetcode_jar</output-path>\r\n    <root id=\"archive\" name=\"leetcode.jar\">\r\n      <element id=\"module-output\" name=\"leetcode\" />\r\n    </root>\r\n  </artifact>\r\n</component>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/artifacts/leetcode_jar.xml b/.idea/artifacts/leetcode_jar.xml
+--- a/.idea/artifacts/leetcode_jar.xml	
++++ b/.idea/artifacts/leetcode_jar.xml	
+@@ -2,7 +2,7 @@
+   <artifact type="jar" name="leetcode:jar">
+     <output-path>$PROJECT_DIR$/out/artifacts/leetcode_jar</output-path>
+     <root id="archive" name="leetcode.jar">
+-      <element id="module-output" name="leetcode" />
++      <element id="module-output" name="leetcode_template" />
+     </root>
+   </artifact>
+ </component>
+\ No newline at end of file
+diff --git a/leetcode.iml b/leetcode_template.iml
+rename from leetcode.iml
+rename to leetcode_template.iml
