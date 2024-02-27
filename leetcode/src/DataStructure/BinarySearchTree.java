@@ -64,6 +64,8 @@ public class BinarySearchTree {
     public static int searchMin(TreeNode root, int val) {
         if (root == null) {
             return -1;
+
+
         } else if (root.value >= val) {
             int left = searchMin(root.left, val);
             return left != -1 ? left : root.value;
