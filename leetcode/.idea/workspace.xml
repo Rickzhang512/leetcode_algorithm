@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a15bd328-f377-4fdf-b780-ad44ad4fd513" name="Changes" comment="1" />
+    <list default="true" id="a15bd328-f377-4fdf-b780-ad44ad4fd513" name="Changes" comment="modify" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,7 +123,7 @@
       <workItem from="1709029600621" duration="197000" />
       <workItem from="1709029806173" duration="20000" />
       <workItem from="1709031093296" duration="347000" />
-      <workItem from="1709032248126" duration="510000" />
+      <workItem from="1709032248126" duration="815000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -141,7 +141,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709032526365</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="delte">
+      <option name="closed" value="true" />
+      <created>1709032838479</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709032838479</updated>
+    </task>
+    <task id="LOCAL-00004" summary="modify">
+      <option name="closed" value="true" />
+      <created>1709033007364</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709033007364</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +165,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="delte" />
+    <MESSAGE value="modify" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify" />
   </component>
 </project>
