@@ -1,14 +1,24 @@
 package DataStructure;
-
+enum Color {
+    Red, Black
+}
 public class TreeNode {
     int value;
     TreeNode left;
     TreeNode right;
 
-    public TreeNode(int item) {
-        this.value = item;
-        this.left = this.right = null;
+    public TreeNode parent;
+    public Color color;
+
+    public TreeNode(int data) {
+        this.left = null;
+        this.right = null;
+        this.parent = null;
+        this.value = data;
+        this.color = Color.Black;
     }
+
+
 
     TreeNode root;
 
@@ -16,8 +26,6 @@ public class TreeNode {
     public TreeNode() {
         root = null;
     }
-
-
 
 
     // 插入方法

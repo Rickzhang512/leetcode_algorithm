@@ -1,9 +1,9 @@
 package DataStructure;
 
 public class UnionFind {
-    private int count;
-    private int[] parent;
-    private int[] size;
+    private int count;  //连通分量数
+    private int[] parent;//存储每个节点的父节点
+    private int[] size;//记录每棵树的“重量” 点所在集合的大小
 
     public UnionFind(int n) {
         this.count = n;
@@ -17,32 +17,35 @@ public class UnionFind {
 
     }
 
+    //
     public void union(int p, int q) {
         int rootP = this.find(p);
         int rootQ = this.find(q);
-        if (rootP != rootQ) {
-            int[] var10000;
-            if (this.size[rootP] < this.size[rootQ]) {
-                this.parent[rootP] = rootQ;
-                var10000 = this.size;
-                var10000[rootQ] += this.size[rootP];
-            } else {
-                this.parent[rootQ] = rootP;
-                var10000 = this.size;
-                var10000[rootP] += this.size[rootQ];
-            }
-
+        if (rootP == rootQ) {
+          return;
         }
+        //大树接小树下面
+        if (size[rootP] > size[rootQ]) {
+            parent[rootQ] = rootP;
+            size[rootP] += size[rootQ];
+        } else {
+            parent[rootP] = rootQ;
+            size[rootQ] += size[rootP];
+        }
+
+        count--;
     }
 
+    //判断是否连通
     public boolean isConnected(int p, int q) {
         return this.find(p) == this.find(q);
     }
 
     public int find(int x) {
-        while(this.parent[x] != x) {
-            this.parent[x] = this.parent[this.parent[x]];
-            x = this.parent[x];
+        //路径压缩
+        while(parent[x] != x) {
+            parent[x] = parent[parent[x]];
+            x = parent[x];
         }
 
         return x;
@@ -50,5 +53,10 @@ public class UnionFind {
 
     public int count() {
         return this.count;
+    }
+
+
+    public int size(int x) {
+        return size[this.find(x)];
     }
 }

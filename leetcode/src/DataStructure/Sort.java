@@ -1,10 +1,9 @@
 package DataStructure;
 
-class GFG {
+public class Sort {
     public static int swapTimes = 0;
 
-    GFG() {
-    }
+
 
     public static void bubbleSort(int[] arr, int n) {
         for(int i = 0; i < n - 1; ++i) {
