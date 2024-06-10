@@ -1,0 +1,14 @@
+<school>
+    <student rollno="1">
+        <firstname>John</firstname>
+        <lastname>Doe</lastname>
+        <nickname>JD</nickname>
+        <marks>85</marks>
+    </student>
+    <student rollno="2">
+        <firstname>Jane</firstname>
+        <lastname>Smith</lastname>
+        <nickname>Janey</nickname>
+        <marks>90</marks>
+    </student>
+</school>

@@ -10,6 +10,10 @@ interface Observer{
 public class Player implements Observer{
     private String playerName;
 
+    public Player(String player1) {
+        this.playerName = player1;
+    }
+
 
     @Override
     public String getName() {

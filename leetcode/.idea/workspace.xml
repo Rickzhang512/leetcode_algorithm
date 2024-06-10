@@ -5,19 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a15bd328-f377-4fdf-b780-ad44ad4fd513" name="Changes" comment="binary tree">
-      <change afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/AVLTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/HashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/RedBlackTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/FrequencyTracker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructure/CFG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructure/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructure/UnionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/UnionFind.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Myself/.idea/libraries/google_code_gson.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Myself/JSONParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Myself/Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Myself/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Myself/Tokenizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Myself/XMLParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Myself/input.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Myself/input.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Myself/.idea/Myself.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Myself/.idea/Design Pattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Myself/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Myself/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Myself/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Myself/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Myself/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Myself/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,6 +180,7 @@
       <workItem from="1711774585762" duration="6197000" />
       <workItem from="1713164997916" duration="2898000" />
       <workItem from="1713256331852" duration="1242000" />
+      <workItem from="1718001511436" duration="2714000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
